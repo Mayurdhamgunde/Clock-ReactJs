@@ -1,0 +1,26 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  font-size: larger;
+  color: aquamarine;
+  background-color: black;
+  /* text-align: center; */
+  margin-top: 30vh;
+  font-family: cursive;
+}
+.tm-txt{
+  margin-top: 3vw;
+  font-style: italic;
+  font-size: 9vh;
+  color: lightgreen;
+  font-weight: bolder;
+}
+.cnt{
+  border: 5px solid tomato;
+  width: 68vh;
+  padding: 50px;
+  margin-left: 34%;
+}
